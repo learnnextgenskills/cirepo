@@ -5,7 +5,7 @@ if [ $# -ne 1 ]
      exit 1
 fi
 BUILD_NUMBER=$1
-echo "Running with BUILD_NUM=" $BUILD_NUM
-sudo docker build -t demo/pet:$BUILD_NUM .
+echo "Running with BUILD_NUM=" $BUILD_NUMBER
+sudo docker build -t demo/pet:$BUILD_NUMBER .
 sudo docker run -d name t1 --rm -p 8088:8080 demo/pet
 
