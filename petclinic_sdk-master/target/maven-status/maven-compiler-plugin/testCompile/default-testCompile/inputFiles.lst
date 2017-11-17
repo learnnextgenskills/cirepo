@@ -1,0 +1,9 @@
+/home/oded/git/petclinic_sdk/src/test/java/org/springframework/samples/petclinic/AbstractClinicTests.java
+/home/oded/git/petclinic_sdk/src/test/java/org/springframework/samples/petclinic/hibernate/HibernateClinicTests.java
+/home/oded/git/petclinic_sdk/src/test/java/org/springframework/samples/petclinic/jdbc/SimpleJdbcClinicTests.java
+/home/oded/git/petclinic_sdk/src/test/java/org/springframework/samples/petclinic/jpa/EntityManagerClinicTests.java
+/home/oded/git/petclinic_sdk/src/test/java/org/springframework/samples/petclinic/OwnerTests.java
+/home/oded/git/petclinic_sdk/src/test/java/org/springframework/samples/petclinic/jpa/OpenJpaEntityManagerClinicTests.java
+/home/oded/git/petclinic_sdk/src/test/java/org/springframework/samples/petclinic/jpa/HibernateEntityManagerClinicTests.java
+/home/oded/git/petclinic_sdk/src/test/java/org/springframework/samples/petclinic/jpa/AbstractJpaClinicTests.java
+/home/oded/git/petclinic_sdk/src/test/java/org/springframework/samples/petclinic/web/VisitsAtomViewTest.java

@@ -1,0 +1,9 @@
+org/springframework/samples/petclinic/AbstractClinicTests.class
+org/springframework/samples/petclinic/OwnerTests.class
+org/springframework/samples/petclinic/jdbc/SimpleJdbcClinicTests.class
+org/springframework/samples/petclinic/hibernate/HibernateClinicTests.class
+org/springframework/samples/petclinic/jpa/HibernateEntityManagerClinicTests.class
+org/springframework/samples/petclinic/jpa/OpenJpaEntityManagerClinicTests.class
+org/springframework/samples/petclinic/jpa/AbstractJpaClinicTests.class
+org/springframework/samples/petclinic/web/VisitsAtomViewTest.class
+org/springframework/samples/petclinic/jpa/EntityManagerClinicTests.class
