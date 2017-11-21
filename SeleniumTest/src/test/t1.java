@@ -18,7 +18,7 @@ public class T1 {
   @Before
   public void setUp() throws Exception {
     driver = new FirefoxDriver();
-    baseUrl = "http://localhost:8888/";
+    baseUrl = "http://192.168.33.10:8088/";
     driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
   }
 
