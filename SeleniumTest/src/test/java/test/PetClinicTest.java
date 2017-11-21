@@ -23,7 +23,7 @@ import junit.framework.Assert;
  */
 @RunWith(JUnit4.class)
 public class PetClinicTest {
-	String url = "http://192.168.33.10:8888/petclinic_sdk-1.0.0-SNAPSHOT";
+	String url = "http://192.168.33.10:8088/petclinic_sdk-1.0.0-SNAPSHOT";
 	private WebDriver driver = null;
 	
 	@Before
