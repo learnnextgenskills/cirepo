@@ -18,18 +18,7 @@
     <artifactId>commons-lang3</artifactId>
     <version>3.4</version>
 </dependency>
-<distributionManagement>
-    <repository>
-      <id>repoR</id>
-      <name>Releases</name>
-      <url>http://13.250.27.132:8081/nexus/content/repositories/repoR</url>
-    </repository>
-    <snapshotRepository>
-      <id>repoS</id>
-      <name>Snapshot</name>
-      <url>http://13.250.27.132:8081/nexus/content/repositories/repoS</url>
-    </snapshotRepository>
-  </distributionManagement>
+
   <!--  -->
 
   <!-- https://mvnrepository.com/artifact/org.apache.logging.log4j/log4j-core -->
@@ -42,5 +31,16 @@
 
   </dependencies>
 
-
+<distributionManagement>
+    <repository>
+      <id>repoR</id>
+      <name>Releases</name>
+      <url>http://54.255.218.64:8081/nexus/content/repositories/repoR</url>
+    </repository>
+    <snapshotRepository>
+      <id>repoS</id>
+      <name>Snapshot</name>
+      <url>http://54.255.218.64:8081/nexus/content/repositories/repoS</url>
+    </snapshotRepository>
+  </distributionManagement>
 </project>
